@@ -1,0 +1,20 @@
+{
+  "name": "shitpostbot",
+  "version": "1.0.0",
+  "description": "you know ;)",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "shitpost",
+    "bot"
+  ],
+  "author": "The Meme Master",
+  "license": "ISC",
+  "dependencies": {
+    "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+    "winston": "^3.2.1"
+  }
+}
